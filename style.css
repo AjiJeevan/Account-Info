@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(104, 107, 109, 0.74);
+}
+.form-heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(214, 30, 30);
+}
+.form-account-details{
+    align-self: center;
+}
+.div-form{
+    background-color: white;
+    margin-top: 50px;
+    text-align: center;
+    border: 2px solid rgb(112, 112, 117);
+    border-radius: 10px;
+}
+
+
+.error{
+    color: red;
+}
